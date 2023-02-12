@@ -1,4 +1,6 @@
+<div  align="center">
 ![](https://github.com/biaoHuynh/gif-meme/blob/master/d0bd8ac234d046e6505630c505a5f362.gif)
+ </div>
 ### About me: 
 - 👋 Hi, I’m Bao Huynh
 - 👀 In the future, I plan to be a full-stack developer.
@@ -27,5 +29,6 @@
   </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biaoHuynh&layout=compact)
-
+<div  align="center">
 ![](https://github.com/biaoHuynh/gif-meme/blob/master/BlindPastCob-size_restricted.gif)
+ </div>
