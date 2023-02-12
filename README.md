@@ -26,5 +26,6 @@
   </kbd>
   </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biaoHuynh1&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biaoHuynh&layout=compact)
+
 ![]([https://github.com/biaoHuynh/gif-meme/blob/master/d0bd8ac234d046e6505630c505a5f362.gif](https://github.com/biaoHuynh/gif-meme/blob/master/BlindPastCob-size_restricted.gif))
