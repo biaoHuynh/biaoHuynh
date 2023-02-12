@@ -32,7 +32,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaoHuynh&layout=compact" alt="animated" />
  </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biaoHuynh&layout=compact)
+
 <p align="center">
 <img src="https://github.com/biaoHuynh/gif-meme/blob/master/BlindPastCob-size_restricted.gif" alt="animated" />
  </p>
