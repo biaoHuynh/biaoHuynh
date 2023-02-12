@@ -9,12 +9,6 @@
 <br>
 <p  align="center">
   <kbd>
-    <kbd>Programming Languages</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-  </kbd>
-  <kbd>
     <kbd>Back-end</kbd>
     <br>
     <br>
@@ -33,3 +27,4 @@
   </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biaoHuynh1&layout=compact)
+![]([https://github.com/biaoHuynh/gif-meme/blob/master/d0bd8ac234d046e6505630c505a5f362.gif](https://github.com/biaoHuynh/gif-meme/blob/master/BlindPastCob-size_restricted.gif))
